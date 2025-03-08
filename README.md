@@ -1,5 +1,4 @@
 ## Placa ESP8266 Modelo 2 
-
 ## Placa PCB para Estudos de Circuitos Eletrônicos
 
 ## 📌 Descrição
