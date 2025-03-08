@@ -9,7 +9,7 @@ Criado usando **EasyEDA** para criação do esquemático e roteamento do layout.
 
 ## 🖼️ Imagem do Projeto
 <p align="center">
-  <img src="https://github.com/tiagocopelli/Placa-ESP8266-Modelo-2/blob/main/Imagens/Placa1.jpg" style="width:50%; border-radius:10px;">
+  <img src="https://github.com/tiagocopelli/Placa-ESP8266-Modelo-2/blob/main/Imagens/Placa.jpg" style="width:50%; border-radius:10px;">
 </p>
 
 
